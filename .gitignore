@@ -1,0 +1,29 @@
+# Build outputs
+bin/
+obj/
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# VS Code
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Sensitive / runtime data
+site_key.txt
+edge_order_devices.json
+edge_order_devices_token.json
